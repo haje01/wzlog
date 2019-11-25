@@ -435,7 +435,7 @@ $ loglab -m foo.meta.json verify my_log.json
 Error: Value type mismatch.
   'ServerNo' is not of type 'integer'
 ```
-메타파일에서 `integer` 형으로 명시한 `ServerNo`의 값에 정수가 아닌 문자열 `"1"`이 온 것이 문제이다. 이것도 `1`로 수정하여 다시 돌려보자.
+메타파일에서 `integer` 형으로 명시한 `ServerNo`의 값에 정수가 아닌 문자열 `"1"`이 온 것이 문제이다. 이것도 숫자 `1`로 수정하여 다시 돌려보자.
 
 ```
 $ loglab -m foo.meta.json verify my_log.json
