@@ -1,6 +1,7 @@
 ---
 layout: post
 title: LogLab 계획
+author: wzlog
 ---
 
 ## 소개와 설치

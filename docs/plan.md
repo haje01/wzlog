@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 로그 표준화 계획
+author: wzlog
 ---
 
 ## 로그 표준화란?
