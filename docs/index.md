@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 시작 페이지
 author: wzlog
 ---
